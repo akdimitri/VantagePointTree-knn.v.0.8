@@ -11,7 +11,7 @@
 CC    =   mpicc
 
 #FLAGS   -Wconversion  used to show implicit conversion warnings
-FLAGS   =   -O2 
+FLAGS   =   -O3 
 
 END_FLAGS = -lm 
 
